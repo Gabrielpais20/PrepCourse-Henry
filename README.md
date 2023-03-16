@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio de del modulo2 del PreCourse
+le cambio esto por que soy re piola
